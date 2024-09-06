@@ -1,7 +1,7 @@
-package com.shaikh.masjid_details.services;
+package com.shaikh.mosque_details.services;
 
-import com.shaikh.masjid_details.model.Mosque;
-import com.shaikh.masjid_details.repository.MosqueRepository;
+import com.shaikh.mosque_details.model.Mosque;
+import com.shaikh.mosque_details.repository.MosqueRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.shaikh.masjid_details.model;
+package com.shaikh.mosque_details.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

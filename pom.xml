@@ -16,6 +16,7 @@
 
     <modules>
         <module>mosque-details</module>
+        <module>mosque-accounts</module>
     </modules>
 
     <properties>

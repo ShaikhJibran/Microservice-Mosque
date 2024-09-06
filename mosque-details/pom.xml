@@ -8,9 +8,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.shaikh</groupId>
-    <artifactId>masjid-details</artifactId>
+    <artifactId>mosque-details</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>masjid-details</name>
+    <name>mosque-details</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
@@ -39,7 +39,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
         <dependency>
             <groupId>com.mysql</groupId>
             <artifactId>mysql-connector-j</artifactId>

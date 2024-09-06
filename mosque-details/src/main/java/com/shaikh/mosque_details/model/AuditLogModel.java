@@ -1,7 +1,7 @@
-package com.shaikh.masjid_details.model;
+package com.shaikh.mosque_details.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.shaikh.masjid_details.utils.Constants;
+import com.shaikh.mosque_details.utils.Constants;
 import jakarta.persistence.Column;
 import jakarta.persistence.MappedSuperclass;
 import lombok.Getter;

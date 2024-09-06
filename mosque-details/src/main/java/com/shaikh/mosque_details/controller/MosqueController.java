@@ -1,7 +1,7 @@
-package com.shaikh.masjid_details.controller;
+package com.shaikh.mosque_details.controller;
 
-import com.shaikh.masjid_details.model.Mosque;
-import com.shaikh.masjid_details.services.MosqueService;
+import com.shaikh.mosque_details.model.Mosque;
+import com.shaikh.mosque_details.services.MosqueService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
-package com.shaikh.masjid_details.repository;
+package com.shaikh.mosque_details.repository;
 
-import com.shaikh.masjid_details.model.Mosque;
+import com.shaikh.mosque_details.model.Mosque;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
