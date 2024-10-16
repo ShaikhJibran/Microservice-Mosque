@@ -20,7 +20,7 @@ public class MosqueAccountController {
         return mosqueAccountService.saveMosqueAccount(mosqueAccount);
     }
 
-    @GetMapping("/fetcMosqueAccount/{mosqueId}")
+    @GetMapping("/fetchMosqueAccount/{mosqueId}")
     public List<MosqueAccount> fetchMosqueAccount(@PathVariable Long mosqueId) {
 
         return mosqueAccountService.fetchMosqueAccounts(mosqueId);
